@@ -1,5 +1,7 @@
 public class a{
 
-public static void main[arg String]
+public static void main(String[] args){
 
+
+}
 }
